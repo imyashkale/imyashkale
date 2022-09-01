@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/-gRPC-informational?style=for-the-badge&color=4A3677&logo=google">&nbsp;
     <img src="https://img.shields.io/badge/-Protocol%20Buffers-informational?style=for-the-badge&color=4A3677&logo=ProtonVPN">&nbsp;
     <img src="https://img.shields.io/badge/-RabbitMQ-informational?style=for-the-badge&color=4A3677&logo=RabbitMQ">&nbsp;
-    <img src="https://img.shields.io/badge/-Amazon%20AWS-informational?style=for-the-badge&color=4A3677&logo=Amazon%20AWS">&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=Nodemon&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=4A3677">&nbsp;
