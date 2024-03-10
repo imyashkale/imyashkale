@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/DynamoDB-informational?style=for-the-badge&logo=dailymotion&color=4A3677">&nbsp;                                       
     <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">&nbsp;
-    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;                                                   <img src="https://img.shields.io/badge/-BONGO-informational?style=for-the-badge&logo=monogram&color=4A3677">&nbsp;                                               <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
+    <img src="https://img.shields.io/badge/-GORM-informational?style=for-the-badge&logo=buddy&color=4A3677">&nbsp;                                                      <img src="https://img.shields.io/badge/-Couchbase-informational?style=for-the-badge&logo=couchbase&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&color=4A3677">&nbsp;
     <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=4A3677">&nbsp;
